@@ -1,6 +1,8 @@
 2019-Nov - Copy.csv
 2019-Nov.csv
 2019-Oct.csv
+2019-Trunc.csv
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
